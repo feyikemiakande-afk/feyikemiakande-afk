@@ -13,7 +13,7 @@
 </p>
 
 ## 🚀 About Me 
-I’m a data analyst who enjoys helping businesses make sense of their data. I like turning complex, messy datasets into clear stories and practical insights.
+I’m a data analyst enthusiast passionate about helping businesses make sense of their data. I like turning complex, messy datasets into clear stories and practical insights.
 
 I focus on building dashboards that actually get used, automating repetitive tasks so teams can spend more time on interesting problems, and creating models that help businesses plan ahead.
 
