@@ -29,7 +29,7 @@ Outside of working with data, I enjoy learning new tools, continuously improving
  **Project A:**
  - Analyzed global billionaire data to explore wealth distribution across countries, industries, and demographics  
  - Built an interactive Excel dashboard to summarize key metrics and insights
- - 🔗 Repository: https://github.com/yourusername/excel-billionaire-dashboard
+ - 🔗 Repository: https://github.com/feyikemiakande-afk/excel_billionaire_dashboard
   
 **Project B:**
 - I used Python to clean and analyse a real-world dataset by handling missing values, summarising key variables, and exploring patterns across different categories
@@ -39,7 +39,7 @@ Outside of working with data, I enjoy learning new tools, continuously improving
 **Project C:**
 - I analysed an Amazon sales dataset using Power BI to evaluate key KPIs such as total sales amount and sales quantity.
 - Accompanied by interactive dashboards to identify sales trends and performance patterns, supporting business decisions around inventory planning, and revenue optimisation.
-- 🔗 Repository: https://github.com/yourusername/amazon-sales-powerbi  
+- 🔗 Repository: https://github.com/feyikemiakande-afk/Amazon_sales_Analysis-
   
 ## 🌱 Currently Learning 
 
