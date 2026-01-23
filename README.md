@@ -3,7 +3,7 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst;Turning+Data+into+Actionable+Insights;Python;Power+BI+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst;Business+Analyst;Turning+Data+into+Actionable+Insights;Python;Power+BI+Developer" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -13,25 +13,39 @@
 </p>
 
 ## 🚀 About Me 
-I’m a data analyst enthusiast passionate about helping businesses make sense of their data. I like turning complex, messy datasets into clear stories and practical insights.
+I’m a **data analyst enthusiast** with a strong interest in helping businesses make sense of their data. I enjoy turning complex, messy datasets into clear stories and practical insights that support informed decision-making.
 
-I focus on building dashboards that actually get used, automating repetitive tasks so teams can spend more time on interesting problems, and creating models that help businesses plan ahead.
+I’m also a **business analyst enthusiast**, interested in understanding business problems, defining KPIs, and translating requirements into data-driven solutions. My focus is on building dashboards that actually get used, automating repetitive tasks to improve efficiency, and creating analytical models that support planning and performance tracking.
 
-When I’m not working with data, I enjoy learning new tools and improving my skills in other aspects. I also love reading books.
+Outside of working with data, I enjoy learning new tools, continuously improving my analytical skills, and reading books.
+
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://feyikemiakande-afk.github.io/)
       
 ## 🔭 What I'm Currently Working On 
+*These projects were completed as part of my learning journey and personal portfolio.*
 
-- **Project A:** Built an Excel dashboard to analyze global billionaire wealth and uncover patterns across countries, industries, and demographics.  
-- **Project B:** I used Python to clean and analyse a real-world dataset by handling missing values, summarising key variables, and exploring patterns across different categories. I performed     descriptive statistical analysis, grouped the data to identify trends, and created visualisations to clearly communicate insights that support data-driven decision making.
-- **Project C:** I analysed an Amazon sales dataset using Power BI to evaluate key KPIs such as total sales amount and sales quantity. Accompanied by interactive dashboards to identify sales trends and performance patterns, enabling data driven decisions around inventory planning, sales performance monitoring, and revenue optimisation.
+ **Project A:**
+ - Analyzed global billionaire data to explore wealth distribution across countries, industries, and demographics  
+ - Built an interactive Excel dashboard to summarize key metrics and insights
+ - 🔗 Repository: https://github.com/yourusername/excel-billionaire-dashboard
+  
+**Project B:**
+- I used Python to clean and analyse a real-world dataset by handling missing values, summarising key variables, and exploring patterns across different categories
+- I performed descriptive statistical analysis, grouped the data to identify trends, and created visualisations to clearly communicate insights that support data driven decision making.
+- 🔗 Repository: https://github.com/yourusername/python-billionaire-eda  
 
+**Project C:**
+- I analysed an Amazon sales dataset using Power BI to evaluate key KPIs such as total sales amount and sales quantity.
+- Accompanied by interactive dashboards to identify sales trends and performance patterns, supporting business decisions around inventory planning, and revenue optimisation.
+- 🔗 Repository: https://github.com/yourusername/amazon-sales-powerbi  
+  
 ## 🌱 Currently Learning 
 
 - Structured Query Language (SQL)
 - Cloud data Analytics
+- Business requirements analysis and stakeholder focused reporting
 
 ## 🛠️ Technical Skillset
 
@@ -56,5 +70,8 @@ When I’m not working with data, I enjoy learning new tools and improving my sk
   <img src="https://img.shields.io/badge/Data cleaning%20 and Preparation-Intermediate-FF6B6B?style=flat" alt="A/B Data Cleaning and Preparation">
   <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
   <img src="https://img.shields.io/badge/Dashboard%20Development-Intermediate-45B7D1?style=flat" alt="Dashboard Development Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/KPI%20Development-Intermediate-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/Business%20Insights-Intermediate-2ECC71?style=flat">
+  <img src="https://img.shields.io/badge/Performance%20Analysis-Intermediate-F39C12?style=flat">
+
 </p>
