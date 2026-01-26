@@ -13,7 +13,7 @@
 </p>
 
 ## 🚀 About Me 
-I’m a **data analyst enthusiast** with a strong interest in helping businesses make sense of their data. I enjoy turning complex, messy datasets into clear stories and practical insights that support informed decision-making.
+I’m a **Juniour data analyst** with a strong interest in helping businesses make sense of their data. I enjoy transforming complex datasets into clear stories and practical insights that support informed decision making.
 
 I’m also a **business analyst enthusiast**, interested in understanding business problems, defining KPIs, and translating requirements into data-driven solutions. My focus is on building dashboards that actually get used, automating repetitive tasks to improve efficiency, and creating analytical models that support planning and performance tracking.
 
@@ -26,17 +26,17 @@ Outside of working with data, I enjoy learning new tools, continuously improving
 ## 🔭 What I'm Currently Working On 
 *These projects were completed as part of my learning journey and personal portfolio.*
 
- **Project A:**
+ **Global Billionaire Analysis (Excel):**
  - Analyzed global billionaire data to explore wealth distribution across countries, industries, and demographics  
  - Built an interactive Excel dashboard to summarize key metrics and insights
  - 🔗 Repository: https://github.com/feyikemiakande-afk/excel_billionaire_dashboard
   
-**Project B:**
+**Exploratory Analysis (Python):**
 - I used Python to clean and analyse a real-world dataset by handling missing values, summarising key variables, and exploring patterns across different categories
-- I performed descriptive statistical analysis, grouped the data to identify trends, and created visualisations to clearly communicate insights that support data driven decision making.
+- I performed descriptive statistical analysis, grouped the data to identify trends, and created visualisations to clearly communicate insights.
 - 🔗 Repository: https://github.com/yourusername/python-billionaire-eda  
 
-**Project C:**
+**Amazon Sales Performance (PowerBI):**
 - I analysed an Amazon sales dataset using Power BI to evaluate key KPIs such as total sales amount and sales quantity.
 - Accompanied by interactive dashboards to identify sales trends and performance patterns, supporting business decisions around inventory planning, and revenue optimisation.
 - 🔗 Repository: https://github.com/feyikemiakande-afk/Amazon_sales_Analysis-
