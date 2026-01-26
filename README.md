@@ -34,7 +34,7 @@ Outside of working with data, I enjoy learning new tools, continuously improving
 **Exploratory Analysis (Python):**
 - I used Python to clean and analyse a real-world dataset by handling missing values, summarising key variables, and exploring patterns across different categories
 - I performed descriptive statistical analysis, grouped the data to identify trends, and created visualisations to clearly communicate insights.
-- 🔗 Repository: https://github.com/yourusername/python-billionaire-eda  
+- 🔗 Repository: https://https://github.com/feyikemiakande-afk/Python_analysis 
 
 **Amazon Sales Performance (PowerBI):**
 - I analysed an Amazon sales dataset using Power BI to evaluate key KPIs such as total sales amount and sales quantity.
