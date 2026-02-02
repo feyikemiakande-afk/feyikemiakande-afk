@@ -41,7 +41,7 @@ Outside of working with data, I enjoy learning new tools, continuously improving
 - Accompanied by interactive dashboards to identify sales trends and performance patterns, supporting business decisions around inventory planning, and revenue optimisation.
 - 🔗 Repository: https://github.com/feyikemiakande-afk/Amazon_sales_Analysis-
 
-**Analysed a 1,000+ record student performance dataset to examine overall academic performance across math, reading, and writing scores.**
+**Student Performance Analysis (SQL)**
 - I analysed a 1,000+ record student performance dataset to examine overall academuc performance across math, reading, and writing scores.
 - I used sql to compare the average scores by gender, parental edication level, unch type, and test preparation status.
 - i created a reuasable sql view to derive total scores and analyse performance distribution
