@@ -45,6 +45,7 @@ Outside of working with data, I enjoy learning new tools, continuously improving
 - I analysed a 1,000+ record student performance dataset to examine overall academuc performance across math, reading, and writing scores.
 - I used sql to compare the average scores by gender, parental edication level, unch type, and test preparation status.
 - i created a reuasable sql view to derive total scores and analyse performance distribution
+- 🔗 Repository: https://github.com/feyikemiakande-afk/student-performance-sql-analysis/blob/main/README.md
 
   
 ## 🌱 Currently Learning 
