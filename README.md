@@ -47,6 +47,40 @@ Outside of working with data, I enjoy learning new tools, continuously improving
 - i created a reuasable sql view to derive total scores and analyse performance distribution
 - 🔗 Repository: https://github.com/feyikemiakande-afk/student-performance-sql-analysis/blob/main/README.md
 
+- ## 🎬 Netflix Movies & TV Shows Analysis (Python)
+
+- Cleaned and analysed Netflix's content catalogue using Python.
+- Performed exploratory data analysis to uncover trends in content type, release years, ratings, and production countries.
+- Created visualisations using Matplotlib and Seaborn to communicate findings.
+🔗 Repository:
+https://github.com/feyikemiakande-afk/Python_analysis
+
+---
+## 🏦 Bank Marketing Campaign Analysis (Python)
+
+- Analysed customer marketing campaign data to identify factors influencing term deposit subscriptions.
+- Investigated customer demographics, previous campaign outcomes, contact methods, and account balances.
+- Produced business recommendations to improve future marketing campaign performance.
+---
+
+## 📈 Apple (AAPL) Stock Time Series Analysis (Python)
+
+- Analysed five years of Apple historical stock data.
+- Applied feature engineering, moving averages, rolling volatility, and monthly return analysis.
+- Used time series techniques to identify long-term trends, seasonal patterns, and trading behaviour.
+---
+
+# 🌱 Currently Learning
+
+- Advanced SQL
+- Power BI Dashboard Design
+- Cloud Data Analytics
+- Business Requirements Analysis
+- Data Engineering Fundamentals
+
+---
+
+
   
 ## 🌱 Currently Learning 
 
