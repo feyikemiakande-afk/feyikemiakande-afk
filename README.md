@@ -47,28 +47,54 @@ Outside of working with data, I enjoy learning new tools, continuously improving
 - i created a reuasable sql view to derive total scores and analyse performance distribution
 - 🔗 Repository: https://github.com/feyikemiakande-afk/student-performance-sql-analysis/blob/main/README.md
 
-- ## 🎬 Netflix Movies & TV Shows Analysis (Python)
-
-- Cleaned and analysed Netflix's content catalogue using Python.
-- Performed exploratory data analysis to uncover trends in content type, release years, ratings, and production countries.
-- Created visualisations using Matplotlib and Seaborn to communicate findings.
-🔗 Repository:
-https://github.com/feyikemiakande-afk/Python_analysis
 
 ---
-## 🏦 Bank Marketing Campaign Analysis (Python)
-
-- Analysed customer marketing campaign data to identify factors influencing term deposit subscriptions.
-- Investigated customer demographics, previous campaign outcomes, contact methods, and account balances.
-- Produced business recommendations to improve future marketing campaign performance.
 ---
 
-## 📈 Apple (AAPL) Stock Time Series Analysis (Python)
+## 🎓 AnalystLab Africa Data Analytics Internship (Batch B)
 
-- Analysed five years of Apple historical stock data.
-- Applied feature engineering, moving averages, rolling volatility, and monthly return analysis.
-- Used time series techniques to identify long-term trends, seasonal patterns, and trading behaviour.
+An 8-week structured internship covering SQL, data cleaning, visualization, and business analytics case studies.
+🔗 Full repository: [Data_analystlab_internship](https://github.com/feyikemiakande-afk/Data_analystlab_internship)
+
+**Week 1 — [Online Retail Sales Analysis](https://github.com/feyikemiakande-afk/Data_analystlab_internship/tree/main/Week_1_Online_Retail_Analysis)** (Python)
+- Cleaned and analysed UK online retailer transaction data (Dec 2010–May 2011): handled missing values, duplicates, cancelled transactions, and invalid records.
+- EDA on top-selling products, highest revenue countries, monthly sales trends, and customer purchasing behaviour.
+- Key finding: the UK was the top revenue market, with sales peaking in December 2010 and revenue concentrated among a small customer base.
+
+**Week 2 — [Netflix Content Analysis](https://github.com/feyikemiakande-afk/Data_analystlab_internship/tree/main/Week_2_Netflix_Content_Analysis)** (MySQL + Python)
+- Cleaned Netflix's content catalogue in MySQL and analysed it in Python/Jupyter.
+- Explored content type split, additions by year, top producing countries, ratings, and genres.
+- Key finding: movies make up ~70% of the library, additions surged 2016–2019, and the US leads content contribution.
+
+**Week 3 — SQL & Data Querying** ([Chinook](https://github.com/feyikemiakande-afk/Data_analystlab_internship/tree/main/Week_3_Chinook) · [Sample Sales](https://github.com/feyikemiakande-afk/Data_analystlab_internship/tree/main/Week_3_Sample_Sales_Analysis)) (MySQL)
+- Wrote and optimized SQL queries against the Chinook database and a sample sales dataset.
+- Covered SELECT, WHERE, ORDER BY, window functions, and indexing strategies for query optimization.
+
+**Week 4 — [Interactive Sales Dashboard](https://github.com/feyikemiakande-afk/Data_analystlab_internship/tree/main/Week_4_Sales_Dashboard)** (Power BI)
+- Built a Power BI dashboard on the Superstore Sales dataset using DAX measures and Power Query cleaning.
+- Resolved locale-specific date format errors and reserved word conflicts during data prep.
+
+**Week 5 — [Bank Marketing Campaign Analysis](https://github.com/feyikemiakande-afk/Data_analystlab_internship/tree/main/week_5_bank_marketing_case_study)** (Python)
+- Analysed customer marketing data to identify factors driving term deposit subscriptions.
+- Investigated demographics, prior campaign outcomes, contact methods, and account balances.
+- Delivered a Python analysis script, a written report, and a presentation on findings and customer segmentation.
+
+**Week 6 — [Apple (AAPL) Stock Time Series Analysis](https://github.com/feyikemiakande-afk/Data_analystlab_internship/tree/main/week_6_apple_stock_time_series_analysis)** (Python)
+- Analysed 5 years of AAPL historical stock data with Pandas.
+- Applied feature engineering, rolling averages, % change, monthly returns, and volatility analysis to surface trends.
+
+**Week 7 — [Weather Data ETL Pipeline](https://github.com/feyikemiakande-afk/Data_analystlab_internship/tree/main/week_7_weather_data_etl_pipeline)** (Python · OpenWeather API)
+- Built an ETL pipeline pulling live weather data (temperature, humidity, condition, wind speed) for multiple cities.
+- Transformed data with Pandas and loaded it into CSV/Excel/SQLite, then ran basic analysis on the results.
+
+**Week 8 — [Final Capstone: World Development Indicators](https://github.com/feyikemiakande-afk/Data_analystlab_internship/tree/main/week_8_WDI_series)** (Python + Power BI)
+- End-to-end analysis of World Bank WDI data on the theme of **Environment → Density & Urbanization**.
+- Cleaned and merged large indicator datasets in Python, then built two Power BI dashboards: *Urbanization Trends* (urban %, rural %, urban growth rate) and *Density and Livability* (population density, % cities >1M, slum %, data coverage).
+
 ---
+
+
+
 
 # 🌱 Currently Learning
 
@@ -77,16 +103,10 @@ https://github.com/feyikemiakande-afk/Python_analysis
 - Cloud Data Analytics
 - Business Requirements Analysis
 - Data Engineering Fundamentals
-
+- Python
 ---
 
 
-  
-## 🌱 Currently Learning 
-
-- Structured Query Language (SQL)
-- Cloud data Analytics
-- Business requirements analysis and stakeholder focused reporting
 
 ## 🛠️ Technical Skillset
 
