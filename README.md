@@ -89,6 +89,15 @@ An 8-week structured internship covering SQL, data cleaning, visualization, and 
 - Cleaned and merged large indicator datasets in Python, then built two Power BI dashboards: *Urbanization Trends* (urban %, rural %, urban growth rate) and *Density and Livability* (population density, % cities >1M, slum %, data coverage).
 
 ---
+## 🔭 What I am Working on
+
+## 💻 Currently Doing: Data Analytics Internship — Digitally Drive
+
+Working through real-world data analytics projects as part of my internship with Digitally Drive.
+
+**In Progress: Excel Analysis**
+---
+
 
 # 🌱 Currently Learning
 
