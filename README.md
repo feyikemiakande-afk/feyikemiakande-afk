@@ -23,7 +23,7 @@ Outside of working with data, I enjoy learning new tools, continuously improving
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://feyikemiakande-afk.github.io/)
       
-## 🔭 What I'm Currently Working On 
+## 🔭 What I Have Worked on
 *These projects were completed as part of my learning journey and personal portfolio.*
 
  **Global Billionaire Analysis (Excel):**
@@ -46,9 +46,6 @@ Outside of working with data, I enjoy learning new tools, continuously improving
 - I used sql to compare the average scores by gender, parental edication level, unch type, and test preparation status.
 - i created a reuasable sql view to derive total scores and analyse performance distribution
 - 🔗 Repository: https://github.com/feyikemiakande-afk/student-performance-sql-analysis/blob/main/README.md
-
-
----
 ---
 
 ## 🎓 AnalystLab Africa Data Analytics Internship (Batch B)
@@ -93,9 +90,6 @@ An 8-week structured internship covering SQL, data cleaning, visualization, and 
 
 ---
 
-
-
-
 # 🌱 Currently Learning
 
 - Advanced SQL
@@ -105,8 +99,6 @@ An 8-week structured internship covering SQL, data cleaning, visualization, and 
 - Data Engineering Fundamentals
 - Python
 ---
-
-
 
 ## 🛠️ Technical Skillset
 
