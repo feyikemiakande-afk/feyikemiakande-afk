@@ -13,7 +13,7 @@
 </p>
 
 ## 🚀 About Me 
-I’m a **Juniour data analyst** with a strong interest in helping businesses make sense of their data. I enjoy transforming complex datasets into clear stories and practical insights that support informed decision making.
+I’m a **Junior data analyst** with a strong interest in helping businesses make sense of their data. I enjoy transforming complex datasets into clear stories and practical insights that support informed decision making.
 
 I’m also a **business analyst enthusiast**, interested in understanding business problems, defining KPIs, and translating requirements into data-driven solutions. My focus is on building dashboards that actually get used, automating repetitive tasks to improve efficiency, and creating analytical models that support planning and performance tracking.
 
@@ -42,9 +42,9 @@ Outside of working with data, I enjoy learning new tools, continuously improving
 - 🔗 Repository: https://github.com/feyikemiakande-afk/Amazon_sales_Analysis-
 
 **Student Performance Analysis (SQL)**
-- I analysed a 1,000+ record student performance dataset to examine overall academuc performance across math, reading, and writing scores.
-- I used sql to compare the average scores by gender, parental edication level, unch type, and test preparation status.
-- i created a reuasable sql view to derive total scores and analyse performance distribution
+- I analysed a 1,000+ record student performance dataset to examine overall academic performance across math, reading, and writing scores.
+- I used sql to compare the average scores by gender, parental edication level, and test preparation status.
+- i created a reusable sql view to derive total scores and analyse performance distribution
 - 🔗 Repository: https://github.com/feyikemiakande-afk/student-performance-sql-analysis/blob/main/README.md
 ---
 
