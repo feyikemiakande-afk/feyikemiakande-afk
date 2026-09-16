@@ -13,7 +13,7 @@
 </p>
 
 ## 🚀 About Me 
-I’m a **Junior data analyst** with a strong interest in helping businesses make sense of their data. I enjoy transforming complex datasets into clear stories and practical insights that support informed decision making.
+I am a Junior data analyst with a strong interest in helping businesses make sense of their data, and in using that data to inform marketing and product decisions, not just internal reporting. I also enjoy transforming complex datasets into clear stories and practical insights that support informed decision making.
 
 I’m also a **business analyst enthusiast**, interested in understanding business problems, defining KPIs, and translating requirements into data-driven solutions. My focus is on building dashboards that actually get used, automating repetitive tasks to improve efficiency, and creating analytical models that support planning and performance tracking.
 
